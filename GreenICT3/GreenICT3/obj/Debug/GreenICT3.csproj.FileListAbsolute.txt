@@ -1,0 +1,11 @@
+c:\users\menaalek\documents\visual studio 2013\Projects\GreenICT3\GreenICT3\bin\Debug\GreenICT3.exe.config
+c:\users\menaalek\documents\visual studio 2013\Projects\GreenICT3\GreenICT3\bin\Debug\GreenICT3.exe
+c:\users\menaalek\documents\visual studio 2013\Projects\GreenICT3\GreenICT3\bin\Debug\GreenICT3.pdb
+c:\users\menaalek\documents\visual studio 2013\Projects\GreenICT3\GreenICT3\obj\Debug\GreenICT3.csprojResolveAssemblyReference.cache
+c:\users\menaalek\documents\visual studio 2013\Projects\GreenICT3\GreenICT3\obj\Debug\GreenICT3.Properties.Resources.resources
+c:\users\menaalek\documents\visual studio 2013\Projects\GreenICT3\GreenICT3\obj\Debug\GreenICT3.csproj.GenerateResource.Cache
+c:\users\menaalek\documents\visual studio 2013\Projects\GreenICT3\GreenICT3\obj\Debug\GreenICT3.exe
+c:\users\menaalek\documents\visual studio 2013\Projects\GreenICT3\GreenICT3\obj\Debug\GreenICT3.pdb
+c:\users\menaalek\documents\visual studio 2013\Projects\GreenICT3\GreenICT3\bin\Debug\ShoppingList.accdb
+c:\users\menaalek\documents\visual studio 2013\Projects\GreenICT3\GreenICT3\bin\Debug\Data\ShoppingList.accdb
+c:\users\menaalek\documents\visual studio 2013\Projects\GreenICT3\GreenICT3\obj\Debug\GreenICT3.ShoppingList.resources
